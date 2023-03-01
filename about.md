@@ -5,19 +5,36 @@ permalink: /about/
 published: true
 ---
 
-Hello! My name is Mayank Khurana. I am currently pursuing my Post Graduation Program in Artificial Intelligence and Data Science at Jio Institute. I have done my Bachelor of Technology in Computer Science and Engineering at Chandigarh Group of Colleges.
-I have 3.5+ years of work experience and was working as a data scientist with 3 different organizations. I was responsible for using predictive modelling, data processing, and data mining algorithms to solve challenging business problems.
+Ms Anishka Sharma is a transformational and passionate individual, presently enrolled in Jio Institute's PGP programme for artificial intelligence and data science. She has worked as a Senior Game Developer for over 3 years, and during that time she has developed a strong background in game development and a thorough understanding of the development life cycle of casino slot games. Anishka has worked as a game developer for both desktop and mobile platforms and has proven to have a great capacity for personal growth. She has developed her interpersonal abilities and become an expert at overseeing projects from beginning to end. Anishka is also quite involved in the Python community and has a strong interest in the open-source community. Her passion for data science is evident, and she is eager to apply her technical skills and knowledge to make a meaningful impact in the field. A deep believer in the generosity of spirit, she strives to always “be more, in order to create more”.
 
 ### More Information
 
-My technology stack includes but not limited to, are python, machine learning, deep learning, time-series, web scraping, flask, FastAPI, snowflake SQL servers, deploying production based servers, keras, TensorFlow, hugging face, Big Data and Data Warehouses. In my career, my growth has been exponential, and I developed interpersonal skills, now I know how to handle a project end to end.
-I have been involved in participating online hackathons for data science and holds top 5 positions in 3 of the challenges.
- 
-My area of interests are applied machine learning, deep neural network, time series and everything around NLP in the field of ecommerce and consumer internet. My research focus is on information retrieval involving neuroscience and deep reinforcement learning.
- 
- 
-I like to listen to a lot of learning courses and read research papers involving deep learning. In my spare time I like to keep up with the news, read blogs on medium and watch a few sci-fi films.
+Areas of Interest
+
+•	Anishka is particularly interested in the application of statistical machine learning and deep neural networks in the field of ecommerce and consumer internet. 
+
+•	She believes that these cutting-edge technologies have the potential to revolutionize the way businesses operate and interact with consumers. 
+
+•	For example, she is fascinated by the potential of deep neural networks for personalizing recommendations and improving the customer experience.
+
+Soft Skills
+
+•	Adaptability
+•	Business acumen
+•	Critical thinking 
+•	Decision making
+•	Interpersonal skills
+•	Leadership abilities
+•	Proactive communication
+•	Teamwork
+•	Time management
+
+Linguistic abilities
+
+•	English: Write, Read and Speak  
+•	Hindi: Write, Read and Speak 
+
 
 ### Contact me
 
-[mkhurana002@gmail.com](mailto:email@domain.com)
+[anishkasharma04@gmail.com](mailto:email@domain.com)
